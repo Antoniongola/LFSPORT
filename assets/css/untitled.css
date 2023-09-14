@@ -1,0 +1,44 @@
+.bg-verde-escuro {
+  background-color: #063735;
+}
+
+.section-title {
+  --bs-text-opacity: 1;
+  wow: #0B6E4F;
+  color: #52B788;
+}
+
+.img-logo2 {
+  background-image: url("../../assets/img/logo2.jpeg");
+}
+
+.col3 {
+  background-image: url("../../assets/img/estadio-de-futebol-a-noite-generative-ai.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.col1 {
+  background-image: url("../../assets/img/acao-do-jogador-de-futebol-no-estadio.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.circulo-estrutura {
+  --bs-text-opacity: 1;
+  color: white;
+  text-align: center !important;
+  border-radius: 90%;
+  border-color: green;
+  border-width: medium;
+  border: solid;
+}
+
+#colunaComImagem img {
+  display: inline-block;
+  align-items: center;
+  justify-content: center;
+}
+

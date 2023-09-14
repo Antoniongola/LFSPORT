@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0e50ecb2-40aa-47b4-aba8-3b2defe2e0a7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LFSPORT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/Contact-Form-Clean.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/Footer-Basic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/Footer-Dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/Social-Icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/untitled.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/ionicons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/ionicons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/ionicons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/ionicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/ionicons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/acao-do-jogador-de-futebol-no-estadio.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/estadio-de-futebol-a-noite-generative-ai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/estadio-de-futebol-a-noite-generative-ai.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/fotografia-de-uma-linda-mulher-jogando-futebol.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/fullsize/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/fullsize/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/fullsize/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/fullsize/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/fullsize/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/fullsize/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/homem-negro-jogando-futebol.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/logo1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/logo2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/organograma-removebg-preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/thumbnails/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/thumbnails/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/thumbnails/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/thumbnails/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/thumbnails/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/thumbnails/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/creative.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.phar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <phar pharPath="$PROJECT_DIR$/composer.phar" interpreterId="2124a79a-c2da-4cfd-8ea4-17d8591b1ccf" />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2VOFeSV1zqEhrmmfTjgJELKyygN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e50ecb2-40aa-47b4-aba8-3b2defe2e0a7" name="Changes" comment="" />
+      <created>1694699318699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694699318699</updated>
+      <workItem from="1694699319724" duration="991000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
