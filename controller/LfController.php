@@ -19,7 +19,7 @@ class LfController
         //introduza o seu email
         $mail->Username = '20200446@isptec.co.ao';
         //introduza a password do seu email
-        $mail->Password = 'Fatima1$';
+        $mail->Password = '';
         $mail->SMTPSecure = 'ssl';
         $mail->Port = 465;
         //introduza novamente o seu email

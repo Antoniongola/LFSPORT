@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e50ecb2-40aa-47b4-aba8-3b2defe2e0a7" name="Changes" comment="atualização quase final do projeto">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controller/LfController.php" beforeDir="false" afterPath="$PROJECT_DIR$/controller/LfController.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +61,7 @@
       <updated>1694699318699</updated>
       <workItem from="1694699319724" duration="14772000" />
       <workItem from="1694762247672" duration="7999000" />
-      <workItem from="1695927496692" duration="1197000" />
+      <workItem from="1695927496692" duration="1255000" />
     </task>
     <task id="LOCAL-00001" summary="Primeiros elementos do projeto">
       <option name="closed" value="true" />
