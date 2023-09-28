@@ -16,19 +16,21 @@ class LfController
         $mail->isSMTP();
         $mail->Host = 'smtp.gmail.com';
         $mail->SMTPAuth = true;
-        $mail->Username = 'sender@gmail.com';
-        $mail->Password = 'senderpassword';
+        //introduza o se email
+        $mail->Username = '20200446@isptec.co.ao';
+        //introduza a password do seu email
+        $mail->Password = '';
         $mail->SMTPSecure = 'ssl';
         $mail->Port = 465;
-        $mail->setFrom('sender@gmail.com');
-        $mail->addAddress("receiver@gmail.com");
+        //introduza novamente o seu email
+        $mail->setFrom('20200446@isptec.co.ao');
+        $mail->addAddress("antoniongola10@gmail.com");
         $mail->isHTML(true);
         $mail->Subject =$assunto;
         $mail->Body = 'Nome: '.$nome. ';<br>Email: '.$email.';<br>Telefone: '.$telefone.';<br><br>'.$mensagem;
         $mail->send();
         echo "<script> alert('Mensagem enviada com sucesso!'); </script>";
     }
-
     public function solicitarServico(){
         if ($_SERVER['REQUEST_METHOD'] == "POST") {
             $nome = filter_input(INPUT_POST, 'nome');
