@@ -16,10 +16,10 @@ class LfController
         $mail->isSMTP();
         $mail->Host = 'smtp.gmail.com';
         $mail->SMTPAuth = true;
-        //introduza o se email
+        //introduza o seu email
         $mail->Username = '20200446@isptec.co.ao';
         //introduza a password do seu email
-        $mail->Password = '';
+        $mail->Password = 'Fatima1$';
         $mail->SMTPSecure = 'ssl';
         $mail->Port = 465;
         //introduza novamente o seu email
